@@ -1,0 +1,24 @@
+PODS:
+  - AvatarImageView (2.1.1)
+  - Floaty (4.0.0)
+  - FoldingTabBar (1.1.2)
+  - FSCalendar (2.7.9)
+  - SCLAlertView (0.7.0)
+
+DEPENDENCIES:
+  - AvatarImageView
+  - Floaty (~> 4.0.0)
+  - FoldingTabBar (~> 1.1.2)
+  - FSCalendar
+  - SCLAlertView
+
+SPEC CHECKSUMS:
+  AvatarImageView: 50618694f9ce37d07fd0250145e733b34197fb5b
+  Floaty: 4f88811bbf08521807f42355db6a9c0db85d5d78
+  FoldingTabBar: 3b1e54c0dfa6103e93e8d95d1e75a22c6d8e2843
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+
+PODFILE CHECKSUM: 41136269af5037f53e5e5ff3dae1b19a466c2eda
+
+COCOAPODS: 1.3.1
